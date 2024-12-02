@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\akunpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\akunpremium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\karyawan\\insert.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\karyawan\\insert.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\akun\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\akun\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\karyawan\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\karyawan\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\jabatan\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\jabatan\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\karyawan\\delete.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\karyawan\\delete.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\departemen\\data.txt||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\departemen\\data.txt||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\responsijuniorproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\responsijuniorproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\karyawan\\update.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\karyawan\\update.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|c:\\users\\brandon rafael\\source\\repos\\responsijuniorproject\\responsijuniorproject\\sql\\karyawan\\select.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{586C718B-866C-4735-9C91-30E8A420B29A}|ResponsiJuniorProject\\ResponsiJuniorProject.csproj|solutionrelative:responsijuniorproject\\sql\\karyawan\\select.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AkunPremium.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\AkunPremium.cs",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\AkunPremium.cs",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\AkunPremium.cs",
+              "RelativeToolTip": "ResponsiJuniorProject\\AkunPremium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:17:29.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Akun.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Akun.cs",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\Akun.cs",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Akun.cs",
+              "RelativeToolTip": "ResponsiJuniorProject\\Akun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:15:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\akun\\data.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\akun\\data.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\akun\\data.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\akun\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T02:08:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\data.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\karyawan\\data.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\data.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\karyawan\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T01:54:55.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\jabatan\\data.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\jabatan\\data.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\jabatan\\data.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\jabatan\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T01:53:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\departemen\\data.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\departemen\\data.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\departemen\\data.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\departemen\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T01:50:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Form1.cs",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Form1.cs [Design]",
+              "RelativeToolTip": "ResponsiJuniorProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:39:05.903Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Form1.Designer.cs",
+              "RelativeToolTip": "ResponsiJuniorProject\\Form1.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:28:15.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Program.cs",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Program.cs",
+              "RelativeToolTip": "ResponsiJuniorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:18:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Form1.cs",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\Form1.cs",
+              "RelativeToolTip": "ResponsiJuniorProject\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:18:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "update.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\update.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\karyawan\\update.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\update.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\karyawan\\update.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T01:10:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "delete.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\delete.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\karyawan\\delete.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\delete.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\karyawan\\delete.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T01:09:09.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "select.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\select.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\karyawan\\select.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\select.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\karyawan\\select.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T00:59:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponsiJuniorProject",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+              "RelativeToolTip": "ResponsiJuniorProject\\ResponsiJuniorProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T00:55:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "insert.txt",
+              "DocumentMoniker": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\insert.txt",
+              "RelativeDocumentMoniker": "ResponsiJuniorProject\\sql\\karyawan\\insert.txt",
+              "ToolTip": "C:\\Users\\Brandon Rafael\\source\\repos\\ResponsiJuniorProject\\ResponsiJuniorProject\\sql\\karyawan\\insert.txt",
+              "RelativeToolTip": "ResponsiJuniorProject\\sql\\karyawan\\insert.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T00:59:14.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

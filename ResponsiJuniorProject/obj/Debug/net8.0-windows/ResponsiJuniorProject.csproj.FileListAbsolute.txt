@@ -19,3 +19,4 @@ C:\Users\Brandon Rafael\source\repos\ResponsiJuniorProject\ResponsiJuniorProject
 C:\Users\Brandon Rafael\source\repos\ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net8.0-windows\ResponsiJuniorProject.pdb
 C:\Users\Brandon Rafael\source\repos\ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net8.0-windows\ResponsiJuniorProject.genruntimeconfig.cache
 C:\Users\Brandon Rafael\source\repos\ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net8.0-windows\ref\ResponsiJuniorProject.dll
+C:\Users\Brandon Rafael\source\repos\ResponsiJuniorProject\ResponsiJuniorProject\obj\Debug\net8.0-windows\ResponsiJuniorProject.sourcelink.json

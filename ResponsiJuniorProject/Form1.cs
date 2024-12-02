@@ -75,9 +75,9 @@ namespace ResponsiJuniorProject
                 sql = @"select * from insert_karyawan(:_nama, :_id_dep, :_id_jabatan)";
                 cmd = new NpgsqlCommand(sql, conn);
                 cmd.Parameters.AddWithValue("_nama", tbNama.Text);
-                cmd.Parameters.AddWithValue("_id_dep", int.Parse(cbDepartemen.Items.ToString()));
-                cmd.Parameters.AddWithValue("_id_jabatan", int.Parse(cbJabatan.Items.ToString()));
-
+                cmd.Parameters.AddWithValue("_id_dep", int.Parse(cbDepartemen.SelectedItem.ToString()));
+                cmd.Parameters.AddWithValue("_id_jabatan", int.Parse(cbJabatan.SelectedItem.ToString()));
+                loadKaryawan();
 
                 if ((int)cmd.ExecuteScalar() == 1)
                 {
