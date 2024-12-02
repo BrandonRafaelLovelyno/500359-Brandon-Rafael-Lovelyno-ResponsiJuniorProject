@@ -1,0 +1,2 @@
+insert into departemen (nama_dep)
+VALUES ('HR'),('Engineer'),('Developer'),('Product M'),('Finance')

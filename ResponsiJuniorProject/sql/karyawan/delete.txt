@@ -1,0 +1,15 @@
+create or replace function delete_karyawan(
+	_id_karyawan char(6)
+)
+returns int AS 
+'
+BEGIN
+	DELETE FROM karyawan where id_karyawan = _id_karyawan;
+	if found then
+		return 1;
+	else 
+		return 0;
+	end if;
+END
+'
+language plpgsql;

@@ -1,0 +1,2 @@
+insert into jabatan (nama_jabatan, salary)
+VALUES ('Senior',50), ('Junior', 30), ('Intern', 10)

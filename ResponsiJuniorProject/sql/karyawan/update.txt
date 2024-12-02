@@ -1,0 +1,23 @@
+create or replace function update_karyawan(
+	_id_karyawan char(6),
+	_nama varchar(30),
+	_id_dep int
+)
+returns int AS 
+'
+BEGIN
+	INSERT INTO karyawan (
+		nama,
+		id_dep
+	) VALUES (
+		_nama,
+		_id_dep
+	);
+	if found then
+		return 1;
+	else 
+		return 0;
+	end if;
+END
+'
+language plpgsql;

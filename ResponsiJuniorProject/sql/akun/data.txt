@@ -1,0 +1,2 @@
+insert into akun (nama, saldo, id_karyawan)
+VALUES ('brandonrl',100,1), ('levireg',1,2), ('hfmdz',200,3)

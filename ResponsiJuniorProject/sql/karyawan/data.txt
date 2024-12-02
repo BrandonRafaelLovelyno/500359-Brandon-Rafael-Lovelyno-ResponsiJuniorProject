@@ -1,0 +1,2 @@
+insert into karyawan (nama, id_dep, id_jabatan)
+VALUES ('Brandon',3,1), ('Deren',2,3), ('Harun',6,1)
